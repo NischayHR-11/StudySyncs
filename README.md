@@ -1,7 +1,5 @@
 # StudySyncs Frontend
 
-![StudySyncs Logo](./public/img/logo-final-light.png)
-
 Welcome to the frontend repository of StudySyncs! This application is developed to provide an organized platform for students to access their study materials and resources.
 
 ## 🚀 Hosted Application
